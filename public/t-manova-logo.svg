@@ -1,0 +1,13 @@
+<svg width="768" height="768" viewBox="0 0 768 768" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="768" height="768" fill="#0B132B"/>
+  <g transform="translate(282 199)">
+    <path d="M0 0H139V35H104V191H70V35H0V0Z" fill="#F8F9FA"/>
+    <rect x="163" width="41" height="41" fill="#9D4EDD"/>
+  </g>
+  <text x="120" y="476" fill="#9D4EDD" font-family="Arial, sans-serif" font-size="68" font-weight="700" letter-spacing="4">T</text>
+  <text x="188" y="476" fill="#9D4EDD" font-family="Arial, sans-serif" font-size="46" font-weight="700">-</text>
+  <text x="246" y="476" fill="#F8F9FA" font-family="Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="8">MANOVA</text>
+  <text x="153" y="520" fill="#F8F9FA" font-family="Arial, sans-serif" font-size="17" letter-spacing="9">TECHNOLOGY</text>
+  <text x="391" y="520" fill="#9D4EDD" font-family="Arial, sans-serif" font-size="17">&amp;</text>
+  <text x="423" y="520" fill="#F8F9FA" font-family="Arial, sans-serif" font-size="17" letter-spacing="8">SOLUTIONS</text>
+</svg>
